@@ -1,0 +1,70 @@
+.button {
+    background-color: #75ebdb; /* Green */
+    border: none;
+    color: white;
+    padding: 20px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.6s;
+  }
+
+.button {border-radius: 12px;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.button:hover {
+    background-color: #e9f0e9; /* Green */
+    color: white;
+}
+p{border-radius: 12px;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: #ffffff; /* Green */
+    border: none;
+    color: rgb(22, 17, 17);
+    padding: 10px;
+    text-align: center left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 5px 20px;
+    cursor: pointer;
+    transition-duration: 2s;
+  }
+
+  p2{border-radius: 12px;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: #ffffff; /* Green */
+    border: none;
+    color: rgb(22, 17, 17);
+    padding: 10px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 5px 20px;
+    cursor: pointer;
+    transition-duration: 2s;
+  }
+
+.button {border-radius: 12px;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+h1{box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 5px 20px;
+    cursor: pointer;
+    transition-duration: 2s;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  p1{ font-size: 20px;}
